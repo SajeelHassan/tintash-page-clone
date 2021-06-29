@@ -4,7 +4,9 @@ import Card from "../Card/Card"
 const Cards = props => {
   return (
     <>
-      <ul style={{ marginTop: "25px" }}>{props.children}</ul>
+      <ul style={{ marginTop: "25px", marginBottom: "40px" }}>
+        {props.children}
+      </ul>
     </>
   )
 }

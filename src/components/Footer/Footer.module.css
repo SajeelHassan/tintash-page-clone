@@ -1,0 +1,54 @@
+.mainFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  align-items: baseline;
+  padding: 3rem 0;
+}
+.mainFooter > div {
+  margin-top: 3rem;
+}
+.mainFooter h2 {
+  font-size: 24px;
+  color: #fff;
+  letter-spacing: 0;
+  margin-bottom: 1rem;
+}
+.mainFooter li {
+  text-decoration: underline;
+  font-size: 18px;
+  color: #9da7b9;
+  list-style: none;
+  line-height: 28px;
+}
+.centerHeadline p {
+  font-size: 18px;
+  color: #9da7b9;
+  letter-spacing: 0;
+  line-height: 28px;
+  font-weight: 400;
+}
+.centerHeadlineLink {
+  color: #37a744;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28px;
+  font-weight: bolder;
+}
+.endFooter {
+  padding: 1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.rights p,
+.rights a {
+  color: #80838a;
+  font-size: 14px;
+  text-decoration: none;
+}
+.backToTop a {
+  text-decoration: none;
+  color: white;
+}
