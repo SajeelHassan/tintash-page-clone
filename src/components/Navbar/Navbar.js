@@ -1,12 +1,12 @@
 import { Link } from "gatsby"
 import React from "react"
 import * as styles from "./Navbar.module.css"
-import Img from "gatsby-image"
+
 const Navbar = () => {
   return (
     <nav>
       <div className={styles.logo}>
-        <Img></Img>
+        <img src="images/logo_blue.webp" alt="logo" />
       </div>
       <div className={styles.links}>
         <Link to="/">About Us</Link>
