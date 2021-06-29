@@ -1,0 +1,50 @@
+[
+    {
+        "Title":"Web Development",
+        "Description":"We work with the latest tech stacks to engineer front-end and back-end solutions, and do everything from single page progressive web applications in React and Vue, to multi-tier services in Python, node.js and Go deployed on AWS and Google App Engine.",
+        "CallToAction": "Learn more",
+        "image":"./images/web.svg"
+    },
+    {
+        "Title":"Mobile App Development",
+        "Description":"We specialise in native and cross-platform consumer apps, creating exceptional digital experience at every touch point. We have crafted applications ranging from immersive AR experiences to complex social platforms and healthcare solutions.",
+        "CallToAction": "Learn more",
+        "image":"./images/mobile.svg"
+    },
+    {
+        "Title":"IoT Development",
+        "Description":"We help our customers design innovative IoT products to enable seamless and smooth experiences. Our teams are well-versed at all levels of the product development cycle - from board design to UX / UI to app development and system integration.",
+        "CallToAction": "Learn more",
+        "image":"./images/IoT.svg"
+    },
+    {
+        "Title":"UI/UX",
+        "Description":"We combine product innovation with optimum usability. Through our iterative design process and thorough prototyping, we create an engaging and human-centric design that is scalable and a joy to use. Our team stays involved from the discovery phase to the final milestones to ensure that no part of your vision is lost in translation.",
+        "CallToAction": "Learn more",
+        "image":"./images/uiux.svg"
+    },
+    {
+        "Title":"Game Development",
+        "Description":"We specialise in game design, production and development of 2D and 3D games for mobile and web platforms, providing end to end solutions including rapid prototyping, polished execution of gameplay along with updates and bug-fixing support after launch. Our team have expert command over popular game engines like Unity, Unreal Engine, cocos2d and others.",
+        "CallToAction": "Learn more",
+        "image":"./images/game.svg"
+    },
+    {
+        "Title":"2D-3D Game Art",
+        "Description":"We create visually engaging 2D and 3D game art for mobile, PCs and AR/VR. While paying close attention to detail, our technical artists collaborate directly with programmers and other artists to assist them in asset production and integration.",
+        "CallToAction": "Learn more",
+        "image":"./images/2d3d.svg"
+    },
+    {
+        "Title":"Quality Assurance",
+        "Description":"We help ensure premium product quality by offering a comprehensive QA process which encompasses all stages of development. Our services consist of a combination of automated and manual testing, making sure your product follows up-to-date quality assurance standards.",
+        "CallToAction": "Learn more",
+        "image":"./images/quality.svg"
+    },
+    {
+        "Title":"Artificial Intelligence & Machine Learning",
+        "Description":"We provide services to augment your existing platforms and solutions with the power of computer vision, data visualizations, predictive analysis and more.",
+        "CallToAction": "Learn more",
+        "image":"./images/ai.svg"
+    }
+]
