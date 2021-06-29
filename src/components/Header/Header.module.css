@@ -1,0 +1,19 @@
+.mainHead {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 2.5rem 0;
+  padding: 15px 0;
+}
+.title > h1 {
+  font-size: 38px;
+  color: white;
+  letter-spacing: 0;
+}
+.title_description > p {
+  font-size: 20px;
+  color: white;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 5px;
+}

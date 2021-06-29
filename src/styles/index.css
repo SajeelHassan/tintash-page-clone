@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-family: Lato, Helvetica Neue, Verdana, sans-serif;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}

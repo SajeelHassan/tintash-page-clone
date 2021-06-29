@@ -1,0 +1,24 @@
+[
+{
+    "Address":[
+        {
+            "City" :"Raleigh",
+            "Country":"USA"
+     },{
+        "City" :"California",
+        "Country":"USA"
+ },{
+    "City" :"Torronto",
+    "Country":"Canada"
+},{
+    "City" :"Lahore",
+    "Country":"Pakistan"
+},{
+    "City" :"Islamabad",
+    "Country":"Pakistan"
+}
+    ],
+    "Copyright":"Copyright 2019 Tintash - All Rights Reserved"
+
+}
+]

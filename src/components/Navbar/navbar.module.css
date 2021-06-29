@@ -1,3 +1,28 @@
 .logo {
-  width: 400%;
+  align-self: center;
+}
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  height: 7vh;
+  position: sticky;
+}
+.links {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  align-items: center;
+  justify-content: space-between;
+}
+.link {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 700;
+
+  color: white;
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: underline;
 }

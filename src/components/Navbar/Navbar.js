@@ -4,17 +4,30 @@ import * as styles from "./Navbar.module.css"
 
 const Navbar = () => {
   return (
-    <nav>
+    <nav className={styles.Navbar}>
       <div className={styles.logo}>
-        <img src="images/logo_blue.webp" alt="logo" />
+        <img src="images/logo_white.webp" alt="logo" />
       </div>
       <div className={styles.links}>
-        <Link to="/">About Us</Link>
-        <Link to="/">Services</Link>
-        <Link to="/">Verticals</Link>
-        <Link to="/">Portfolio</Link>
-        <Link to="/">Contact Us</Link>
-        <Link to="/"> +1 (415) 234-0744</Link>
+        <Link to="/" className={styles.link}>
+          About Us
+        </Link>
+        <Link to="/" className={styles.link}>
+          Services
+        </Link>
+        <Link to="/" className={styles.link}>
+          Verticals
+        </Link>
+        <Link to="/" className={styles.link}>
+          Portfolio
+        </Link>
+        <Link to="/" className={styles.link}>
+          Contact Us
+        </Link>
+        <Link to="/" className={styles.link}>
+          {" "}
+          +1 (415) 234-0744
+        </Link>
       </div>
     </nav>
   )

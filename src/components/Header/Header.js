@@ -3,7 +3,7 @@ import * as styles from "./Header.module.css"
 
 const Header = props => {
   return (
-    <div>
+    <div className={styles.mainHead}>
       <div className={styles.title}>
         <h1>Services</h1>
       </div>

@@ -1,0 +1,8 @@
+.headBkg {
+  background: url("../../images/bkg.jpg");
+  background-size: cover;
+
+  background-position: 50%;
+  height: 320px;
+  z-index: -90;
+}
