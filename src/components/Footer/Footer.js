@@ -6,7 +6,9 @@ import Container from "../Helpers/Container"
 import Background from "../Helpers/Background"
 const Footer = props => {
   const data = props.data.allFooterJson.edges[0].node
-
+  const scrollToTop = e => {
+    window.scrollTo({ top: 0, behavior: "smooth" })
+  }
   return (
     <>
       <Background color="#282c34" height="23.625rem">
@@ -71,7 +73,7 @@ const Footer = props => {
               <a href="/">Privacy Policy</a>
             </div>
             <div className={styles.backToTop}>
-              <a href="#nav">Back to Top</a>
+              <a onClick={scrollToTop}>Back to Top</a>
             </div>
           </div>
         </Container>

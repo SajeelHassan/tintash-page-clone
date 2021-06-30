@@ -4,5 +4,6 @@
 
   background-position: 50%;
   height: 320px;
+  top: 0;
   z-index: -90;
 }

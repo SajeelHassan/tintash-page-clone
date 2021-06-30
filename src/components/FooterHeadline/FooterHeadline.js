@@ -10,14 +10,14 @@ const FooterHeadline = () => {
         <Container>
           <div className={styles.headlineOne}>
             <h2>We Have worked with some great clients!</h2>
-            <button>See our Portfolio</button>
+            <button className={styles.btnOne}>See our Portfolio</button>
           </div>
         </Container>
       </Background>
-      <Background color="#30333a" height="4.625rem">
+      <Background color="#30333a" height="5.625rem">
         <Container>
           <div className={styles.headlineTwo}>
-            <button>Let's Get Started</button>
+            <button className={styles.btnTwo}>Let's Get Started</button>
           </div>
         </Container>
       </Background>
