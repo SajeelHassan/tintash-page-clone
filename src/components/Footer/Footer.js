@@ -49,18 +49,14 @@ const Footer = props => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img
-                    src=".../data/images/tw.svg"
-                    src="src\images\tw.svg"
-                    alt="TW"
-                  ></img>
+                  <img src="images\tw.svg" alt="TW"></img>
                 </a>
                 <a
                   href="https://www.linkedin.com/tintash"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="src\images\in.svg" alt="In"></img>
+                  <img src="images\in.svg" alt="In"></img>
                 </a>
               </div>
             </div>
