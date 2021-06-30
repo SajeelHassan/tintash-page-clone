@@ -1,3 +1,3 @@
 ## Live URL
 
-Creating..........
+https://tintash-clone-page.netlify.app
