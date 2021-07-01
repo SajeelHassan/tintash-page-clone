@@ -7,6 +7,7 @@ const Background = props => {
         backgroundColor: props.color,
         height: props.height,
         width: "100%",
+        zIndex: 1,
       }}
     >
       {props.children}

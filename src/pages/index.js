@@ -8,7 +8,6 @@ import Footer from "../components/Footer/Footer"
 import FooterHeadline from "../components/FooterHeadline/FooterHeadline"
 import Container from "../components/Helpers/Container"
 import NavHead from "../components/Helpers/NavHead"
-import Background from "../components/Helpers/Background"
 import "../styles/index.css"
 export default function Home(props) {
   const data = props.data.allServicesJson.nodes

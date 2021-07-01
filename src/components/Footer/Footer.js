@@ -18,7 +18,7 @@ const Footer = props => {
               <ul>
                 <h2>Addresses</h2>
                 {data.Address.map(address => (
-                  <li>
+                  <li key={Math.random()}>
                     <h4>
                       {address.City}, {address.Country}
                     </h4>
